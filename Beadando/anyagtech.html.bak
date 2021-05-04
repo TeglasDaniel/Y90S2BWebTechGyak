@@ -1,0 +1,194 @@
+<!doctype html>
+
+<html lang="hu">
+
+	<head>
+
+		<title>Beadandó</title>
+		<meta charset="UTF-8">
+
+	</head>
+
+	<body style="background:transparent; color:black; font-family:tahoma; font-size:10pt">
+
+		<br><br>
+
+		<font style="font-size:14pt">
+
+			<p style="text-align:center">
+
+				<b>Villamos anyagtechnológia</b>
+
+			</p>
+
+		</font>
+
+		<br><br>
+
+		<font size="5pt" ><strong>A Villamos anyagtechnológia ütemterve:</strong></font>
+		
+		<br><br>
+
+		<table border="1">
+			<tr>
+				<td style="text-align:left">
+					<div style="width:915px; height:100px; overflow:auto">
+						1. hét<br> 
+						Az anyagok tulajdonságait befolyásoló tényezők. Kémiai kötések. Ionos,
+						kovalens, fémes, van der Waals kötések jellemzői és hatásuk az anyagok
+						tulajdonságaira. Az atomok rendezettsége.
+					</div>
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					2. hét <br> 
+					Sportnap (oktatási szünet) miatt az előadás nem lesz megtartva.
+
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					3. hét <br> 
+					Ideális kristály fogalma, leírása. A Bravais rácsok és megadásuk. A kristálytani
+					síkok és irányok jelölése. Kristálytani adatok értelmezése.
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					4. hét<br> 
+					Reális kristályok. A kristályhibák csoportosítása. Pontszerű rácshibák. Vonalszerű
+					rácshibák. Él- és csavardiszlokációk a kristályrácsban. Burgers kör és Burgers
+					vektor. Síkbeli diszlokáció. Felületszerű rácshibák. Az alkatrész felülete.
+					Krisztallithatárok és fajtái. Fázishatárok fajtái.
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					5. hét<br> 
+					Mechanikai feszültség és az alakváltozás fogalma. Rugalmas alakváltozás és
+					jellemzői. Képlékeny alakváltozás mechanizmusai; ikerkristályképződés,
+					transzláció. Diszlokáció szerepe a transzlációban. Egykristályok és polikristályos
+					fémek képlékeny alakváltozása.
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					6. hét<br> 
+					Szakítóvizsgálat, a vizsgálat során bekövetkező változások. A szakítóvizsgálatból
+					meghatározható szilárdsági és képlékenységi mérőszámok. A képlékeny
+					alakváltozás hatása a szilárdsági és alakváltozási jellemzőkre. Nyomóvizsgálat.
+					Ütve-hajlító vizsgálat és a meghatározható mérőszámok. A keménység fogalma.
+					A Brinell, a Vickers és a Rockwell keménységmérési eljárások.
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					7. hét<br> 
+					Nemzeti ünnep – oktatási szünet
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					8. hét<br> 
+					Az elektromos vezetés mechanizmusai. Az anyagok csoportosítása elektromos
+					vezetésük alapján. Fémek szabadelektron elmélete. Az elektromos vezetés
+					kvantummechanikai elemei. Az elektronsávok kialakulása, jellemzői fémek,
+					szerkezeti félvezetők és szigetelők esetén.
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					9. hét <br> 
+					A kristályrács hatása a valencia elektronok mozgására, a Brillouin-zónák. A
+					vezetőképességet befolyásoló tényezők. A hőmérséklet hatása a fajlagos
+					ellenállásra.A képlékeny alakítás hatása a vezetőképességre. Az ötvözet fogalma.
+					Az ötvözetek típusai és jellemzőik. Az ötvözés hatása a fajlagos ellenállásra.
+				</td>
+			</tr>
+
+			<tr>
+				<td style="text-align:left">
+					10. hét<br> 
+					Vezető-, ellenállás és érintkező anyagok. Félvezetők. Félvezetők sávszerkezete,
+					típusai. Szerkezeti és ötvözött félvezetők. Félvezető vegyületek. A félvezetők
+					vezetőképességét befolyásoló tényezők. Az ötvözés mértékének és a hőmérséklet
+					hatása.
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left">
+					11. hét<br>  
+					Félvezetők előállítása. A nagy tisztaságú félvezetők gyártása, a zónás átolvasztás.
+					A diffúzió fogalma, mechanizmusai. A kristályosodás folyamata. A növekedésre
+					alkalmas kristálycsírák számának szabályozási lehetőségei. 
+				</td>
+			</tr>
+
+			<tr>
+				<td style="text-align:left">
+					12. hét <br> 
+					Szigetelőanyagok. Szigetelőanyagokban kialakuló polarizációs módok.
+					Szigetelőanyagok jellemző paraméterei. Használatos szigetelőanyagok és
+					jellemzőik. Gázok mint szigetelőanyagok. Szerves szigetelőanyagok (olajok,
+					öntött gyanták, szigetelőlakkok, műanyag fóliák). Csillámok. Az üveg villamos
+					tulajdonságai. Az üvegek előállítása. Kerámia szigetelők tulajdonságai, gyártási
+					technológiájuk..
+				</td>
+			</tr>
+
+			<tr>
+				<td style="text-align:left">
+					13. hét<br>  
+					Mágneses anyagok. A mágnesesség alapfogalmai. A mágneses dipólus fogalma,
+					viselkedése mágneses térben. Anyagok mágneses tulajdonságainak
+					anyagszerkezeti okai és kapcsolatuk a dia-, para- és ferromágneses viselkedéssel.
+					A domének kialakulása, és változásuk mágneses tér hatására. A domének méretét
+					és a doménfalak mozgását befolyásoló tényezők. A telítődési indukció
+					változtatásának, módosításának anyagszerkezeti lehetőségei.
+				</td>
+			</tr>
+
+			<tr>
+				<td style="text-align:left">
+					14. hét <br> 
+					Lágymágneses anyagokkal szemben támasztott elvárások. A legelterjedtebb
+					lágymágneses anyagok és jellemezőik. Ötvözetlen acél lágymágnesek és
+					gyártásának technológiai elemei. A Fe-Si lágymágnesek és a gyártási technológia
+					hatása a tulajdonságaikra. A Ni-Fe lágymágnesek és előállításuk legfontosabb
+					technológiai lépései. Kerámiamágnesek. A ferritek tulajdonságai, gyártási
+					technológiája. Keménymágnesek. 					
+				</td>
+			</tr>
+
+		</table>
+
+		<br>
+
+		<footer>
+
+			<div style="text-align:center">
+
+				<strong><u>A tantárgy oktatója : Dr. Lukács Zsolt</u></strong>
+				
+				<br><br>
+
+				<a href="https://geik.uni-miskolc.hu/data/subjects_pdf/gemtt071b_gemtt071bl_final.pdf" target="anyagtech"><img src="kepek/anyagtech.png" height="200" alt=""></a>
+
+			</div>
+
+		</footer>
+
+	</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
