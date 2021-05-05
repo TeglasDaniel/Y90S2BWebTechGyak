@@ -1,0 +1,96 @@
+<!doctype html>
+
+<html lang="hu">
+
+	<head>
+		<title>Beadandó</title>
+		<meta charset="UTF-8">
+	</head>
+
+	<body style="background:transparent; black; font-family:tahoma; font-size:10pt">
+
+		<br><br>
+
+		<img src="kepek/adatbazis.png" height="200" border="0" alt="" style="float:right">
+		<font style="font-size:14pt">
+
+			<p style="text-align:center">
+
+				<b>Numerikus módszerek</b>
+
+			</p>
+
+		</font>
+
+		<br><br>
+
+		<font size="5pt" ><strong>A Numerikus módszerek tantárgyleírása:</strong></font>
+
+		<br><br>
+
+		<strong>A tananyag leírása:</strong>
+
+		<ul>
+
+			<li>A klasszikus hibaszámítás alapjai.
+			<li>Mátrixműveletek, speciális mátrixok.
+			<li>Vektor- és mátrixnormák.
+			<li>Lineáris egyenletrendszerek megoldása Gauss-módszerrel, LU-módszerrel, Jacobi- és Seidel
+				iterációval.
+			<li>Mátrixinvertálás.
+			<li>Mátrix sajátértékei és sajátvektorai. A hatványmódszer.
+			<li>Lineáris egyenletrendszerek hibaanalízise.
+			<li>A legkisebb négyzetek módszere.
+			<li>Függvényközelítés interpolációval: Lagrange interpoláció, spline interpoláció.
+			<li>Numerikus deriválás és integrálás.
+			<li>Egyismeretlenes egyenletek megoldási módszerei: Intervallumfelező eljárás, fixpontiteráció,
+			<li>Newton-módszer.
+			<li>A fixpont-iteráció és a Newton módszer nemlineáris egyenletrendszerekre.
+			<li>Differenciál-egyenletek közelítő megoldásai.
+
+		</ul>
+
+		<br><br>
+
+		A tárgy lezárása: <strong>aláírás és gyakorlati jegy</strong>
+			
+		<br><br>
+
+		<u>A félév elismerésének feltételei:</u>
+		
+		<br>
+
+		Az előadások és a gyakorlatok rendszeres látogatása, valamint a zárthelyi dolgozat legalább
+		elégséges szintű megírása.
+		Irodalom:
+		<ul>
+			
+			<li>Galántai Aurél - Jeney András: Numerikus módszerek, Miskolci Egyetemi Kiadó, Miskolc 2005.
+			<li>Gergó Lajos: Numerikus módszerek-Kidolgozott példák, feladatok, ELTE, Eötvös Kiadó Kft,
+			2010.
+			<li>Stoyan G. (szerk.): MATLAB, Typotex, 2005
+
+			<br><br><br>
+
+		<footer>
+
+			<div style="text-align:center">
+
+			
+
+				<strong>A tárgyfelelős: Dr. Körei Attila</strong>
+				
+				<br><br>
+
+				<a href="http://mazsola.iit.uni-miskolc.hu/M.edu/targyak/temat?targy_id=GEVAU505BL" target="nummod"><img src="kepek/nummod.png" height="200" alt=""></a>
+
+			</div>
+
+		</footer>
+
+	</body>
+
+</html>
+
+
+
